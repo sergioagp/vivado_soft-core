@@ -1,3 +1,7 @@
+/* Author: Sergio Pereira */
+/* Date: 2021/05/15 */
+/* Brief: Main file for AES ECB mode test. */
+
 /* Entry Point */
 ENTRY(Reset_Handler)
 

@@ -1,3 +1,7 @@
+// Author: Sergio Pereira
+// Date: 2021/05/09
+// Brief: UART0 driver
+
 #ifndef __PRINT_UART_H
 #define __PRINT_UART_H
 void config_uart0();

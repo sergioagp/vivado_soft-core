@@ -1,3 +1,7 @@
+// Author: Sergio Pereira
+// Date: 2021/05/23
+// Brief: UART driver
+
 #include "uart.h"
 
 volatile unsigned int * const RxR = (unsigned int *)0x40600000;

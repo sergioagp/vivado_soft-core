@@ -1,3 +1,8 @@
+// Author: Sergio Pereira
+// Date: 2021/05/09
+// Description: This file contains the function to load the binary of the
+// softcore into the enclave.
+
 
 #include <string.h>
 #ifdef DEBUG_PRINTF
